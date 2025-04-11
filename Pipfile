@@ -8,6 +8,7 @@ jupyterlab = "*"
 matplotlib = "*"
 numpy = "*"
 scikit-learn = "*"
+torch = "*"
 
 [dev-packages]
 
